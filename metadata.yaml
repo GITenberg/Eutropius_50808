@@ -1,16 +1,22 @@
 _repo: Eutropius_50808
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hazzard, Jesse Charles
       gutenberg_agent_id: '46093'
       url: http://www.gutenberg.org/2009/agents/46093
+covers:
+- cover_type: archival
+  image_path: 50808-h/images/cover.jpg
 creator:
   author:
     agent_name: Eutropius, Flavius
     gutenberg_agent_id: '46092'
     url: http://www.gutenberg.org/2009/agents/46092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50808#Eutropius
 gutenberg_issued: '2015-12-31'
 gutenberg_type: Text
 identifiers:
